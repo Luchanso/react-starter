@@ -1,0 +1,30 @@
+{
+  "name": "bottleneck-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Luchanso/bottleneck-app.git"
+  },
+  "author": "Loutchansky Oleg <luchansodev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luchanso/bottleneck-app/issues"
+  },
+  "homepage": "https://github.com/Luchanso/bottleneck-app#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-redux": "^5.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.6.1",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}

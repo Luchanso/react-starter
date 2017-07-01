@@ -1,5 +1,12 @@
 extends: airbnb
 plugins:
   - react
-  - jsx-a11y
   - import
+env:
+  browser
+  jest
+parserOptions:
+  ecmaVersion: 8
+rules:
+  no-use-before-define: 0
+  no-plusplus: 0
